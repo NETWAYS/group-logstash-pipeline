@@ -1,6 +1,6 @@
 # sudo-logstash-pipeline
 
-[![CI](https://github.com/netways/sudo-logstash-pipeline/workflows/Logstash%20Syntax/badge.svg?event=push)](https://github.com/netways/sudo-logstash-pipeline/actions?query=workflow%3A%22Logstash+Syntax%22)
+[![CI](https://github.com/netways/group-logstash-pipeline/workflows/Logstash%20Syntax/badge.svg?event=push)](https://github.com/netways/group-logstash-pipeline/actions?query=workflow%3A%22Logstash+Syntax%22)
 
 ## Input and Output ##
 
